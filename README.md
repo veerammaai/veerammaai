@@ -1,6 +1,6 @@
 # Hi, I'm Veeramma 👋
 
-Aspiring AI Engineer specialising in Computer Vision.
+Aspiring AI Engineer | Computer Vision Specialist.
 Currently building real projects with Python, PyTorch, and OpenCV.
 Based in Naperville, IL — actively looking for entry-level AI/ML opportunities in the USA.
 
